@@ -9,7 +9,7 @@
 Clone this repo and copy init.vim to `/home/arahnik/.config/nvim` directory. This is config for fast minimal neovim setup. Don't use it if you already have configured neovim.
 
 ```
-git clone ...
+git clone https://github.com/tumbler-cp/nvim-min.git
 cd nvim-min
 mkdir /home/arahnik/.config/nvim
 cp init.vim /home/arahnik/.config/nvim/
