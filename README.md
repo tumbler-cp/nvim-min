@@ -1,6 +1,7 @@
 ## Preview
-![Screenshot1](https://github.com/tumbler-cp/nvim-min/blob/master/screeshots/nvim1.png)
-![Screenshot2](https://github.com/tumbler-cp/nvim-min/blob/master/screeshots/nvim2.png)
+![Screenshot1](https://github.com/tumbler-cp/nvim-min/blob/master/screenshots/nvim1.png)
+![Screenshot2](https://github.com/tumbler-cp/nvim-min/blob/master/screenshots/nvim2.png)
+
 
 
 ## Installation
