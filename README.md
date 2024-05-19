@@ -11,5 +11,5 @@ Clone this repo and copy init.vim to `/home/arahnik/.config/nvim` directory. Thi
 ```
 git clone https://github.com/tumbler-cp/nvim-min.git
 cd nvim-min
-mkdir /home/arahnik/.config/nvim
-cp init.vim /home/arahnik/.config/nvim/
+mkdir $HOME/.config/nvim
+cp init.vim $HOME/.config/nvim/
